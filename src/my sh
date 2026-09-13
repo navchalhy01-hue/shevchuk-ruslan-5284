@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!//bin/bash
 echo "Hello, word"
+=======
+#!/bin/bash
+is -al
+>>>>>>> 24c5656876b3607b308eef8d02dd6e381c3a42c2
